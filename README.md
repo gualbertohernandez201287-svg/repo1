@@ -11,6 +11,9 @@ ahora si avanzando
 creo q avanza
 
 hay q hacerlo en git
+
 volviendo a modificar
+
 y creciendo
+
 S
